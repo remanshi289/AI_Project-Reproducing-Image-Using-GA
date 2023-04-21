@@ -123,3 +123,27 @@ matplotlib.pyplot.title("PyGAD & GARI for Reproducing Images")
 matplotlib.pyplot.show()
 ```
 <img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233591086-dda66fc2-bd6d-4867-8873-f12284abd5a5.png">
+
+## Generations
+
+#### 10 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233593960-797afb96-87fe-4f9c-9352-ccb8bf2e1b57.png">
+
+#### 100 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594654-a1b466d1-c5af-44b3-a107-5715e28f9b28.png">
+
+#### 2000 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594797-cd3f730f-aabf-4845-9ec2-ef56441fd9ea.png">
+
+#### 5000 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594731-4f1e7e0e-1568-4883-bc60-e6dffac8f4b8.png">
+
+#### 10000 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594871-7ae59916-f37e-4adf-b84e-ae3ade56c7c5.png">
+
+#### 20000 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594919-e7da3f8a-98c8-421e-b487-22f1c2c6c7e8.png">
+
+#### 50000 Generation
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233591086-dda66fc2-bd6d-4867-8873-f12284abd5a5.png">
+
