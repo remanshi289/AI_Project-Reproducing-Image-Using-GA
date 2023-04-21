@@ -133,10 +133,10 @@ matplotlib.pyplot.show()
 <img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594654-a1b466d1-c5af-44b3-a107-5715e28f9b28.png">
 
 #### 2000 Generation
-<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594797-cd3f730f-aabf-4845-9ec2-ef56441fd9ea.png">
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594731-4f1e7e0e-1568-4883-bc60-e6dffac8f4b8.png">
 
 #### 5000 Generation
-<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594731-4f1e7e0e-1568-4883-bc60-e6dffac8f4b8.png">
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594797-cd3f730f-aabf-4845-9ec2-ef56441fd9ea.png">
 
 #### 10000 Generation
 <img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233594871-7ae59916-f37e-4adf-b84e-ae3ade56c7c5.png">
