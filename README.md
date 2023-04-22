@@ -101,6 +101,7 @@ After the run() method completes, the fitness values of all generations can be v
 ```
 ga_instance.plot_result()
 ```
+<img align="center" width="250" height="200" src="(https://user-images.githubusercontent.com/121939307/233763494-57fc2b75-f7cd-46ad-ad3c-4f4d1c731f24.jpg)">
 
 ### Calculate Some Statistics
 After this Calculation the actual generated image of fruit.jpg for given number of generation will be shown.
@@ -122,7 +123,7 @@ matplotlib.pyplot.imshow(result)
 matplotlib.pyplot.title("PyGAD & GARI for Reproducing Images")
 matplotlib.pyplot.show()
 ```
-<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233591086-dda66fc2-bd6d-4867-8873-f12284abd5a5.png">
+<img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/121939307/233763418-3c9a3868-2c8b-486a-941d-a152975a83cf.jpg">
 
 ## Generations
 
@@ -147,3 +148,5 @@ matplotlib.pyplot.show()
 #### 50000 Generation
 <img align="center" width="250" height="200" src="https://user-images.githubusercontent.com/128599179/233591086-dda66fc2-bd6d-4867-8873-f12284abd5a5.png">
 
+#### 100000 Generation
+<img align="center" width="250" height="200" src="(https://user-images.githubusercontent.com/121939307/233763460-8581f0d2-faca-4ee0-8fec-dae0ddeefea8.jpg)">
