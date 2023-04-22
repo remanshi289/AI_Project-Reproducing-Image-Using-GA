@@ -73,7 +73,7 @@ Here we are using the image pixel values range from 0 to 1, then set init_range_
 ```
 import pygad
 
-ga_instance = pygad.GA(num_generations=50000,
+ga_instance = pygad.GA(num_generations=100000,
                        num_parents_mating=10,
                        fitness_func=fitness_fun,
                        sol_per_pop=20,
